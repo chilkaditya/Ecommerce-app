@@ -3,3 +3,10 @@
 *-private.*
 vendor/
 Gopkg.lock
+*.terraform
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+*.tfplan
+*.tfplan.json
